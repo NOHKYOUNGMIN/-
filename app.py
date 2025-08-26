@@ -11,7 +11,7 @@ import plotly.express as px
 # 기본 설정
 # ============================
 st.set_page_config(page_title="ARAM PS Dashboard", layout="wide")
-DEFAULT_CSV_NAME = "aram_participants_clean_preprocessed.csv"
+DEFAULT_CSV_NAME = "aram_participants_with_full_runes_merged_plus (1).csv"
 DD_VER = "13.17.1"  # Data Dragon 버전
 
 # ============================
